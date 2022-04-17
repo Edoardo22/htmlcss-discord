@@ -135,9 +135,10 @@ main>.testo {
 .text {
     flex-basis: 40%;
     min-height: 680px;
+    max-width: 325px;
 }
 
-.grey {
+.grey img {
     background-color: grey;
 }
 
